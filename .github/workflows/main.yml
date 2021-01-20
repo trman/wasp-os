@@ -1,4 +1,4 @@
-name: wasp-os binary distribution
+name: wasp-os binary distribution h
 
 on:
   push:
